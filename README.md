@@ -16,21 +16,21 @@
 
 <br/><br/>
 
-<!-- 3D Isometric GIF Banner -->
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" alt="3D Dev Banner"/>
+<!-- Stable 3D Dev Animation from GitHub CDN -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400px" alt="3D Dev Animation"/>
 
 </div>
 
 ---
 
-<!-- About Me Section with animated border -->
+<!-- About Me Section -->
 <div align="center">
 
 ## 🧠 About Me
 
 </div>
 
-```yaml
+yaml
 👨‍💻 Name        : Yuvanesh S
 🎓 Degree      : B.Tech – Information Technology (Expected: May–Jun 2027)
 🏫 College     : Misrimal Navajee Munoth Jain Engineering College, Anna University
@@ -42,7 +42,7 @@
 ⭐ CGPA        : 8.3 / 10
 🛠️ Experience  : 2+ Years – Full-Stack Development & AI Integration
 🎯 Goal        : Software Engineering Internship | Production-Ready Code
-```
+
 
 ---
 
@@ -96,11 +96,12 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvanesh-110905&theme=tokyonight&border_radius=15&border=7c3aed&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa" />
+<!-- ✅ Fixed Streak Stats URL -->
+<img src="https://streak-stats.demolab.com/?user=Yuvanesh-110905&theme=tokyonight&border_radius=15&border=7c3aed&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa" />
 
 <br/>
 
-<!-- 3D Contribution Graph -->
+<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvanesh-110905&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=false&border_color=7c3aed&radius=16" width="100%"/>
 
 </div>
@@ -111,7 +112,8 @@
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yuvanesh-110905&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
+<!-- ✅ Removed SECRET rank that caused errors -->
+<img src="https://github-profile-trophy.vercel.app/?username=Yuvanesh-110905&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
 
 </div>
 
@@ -125,9 +127,9 @@
 
 | 🎓 Degree | 🏫 Institution | 📅 Year | 📈 Score |
 |-----------|---------------|---------|---------|
-| **B.Tech – Information Technology** | Misrimal Navajee Munoth Jain Engineering College, Anna University | 2023 – 2027 | **CGPA: 8.3 / 10** |
-| **HSC (Class XII)** | Little Angels Matriculation HR Secondary School | 2022 – 2023 | **79%** |
-| **SSLC (Class X)** | Little Angels Matriculation HR Secondary School | 2020 – 2021 | — |
+| *B.Tech – Information Technology* | Misrimal Navajee Munoth Jain Engineering College, Anna University | 2023 – 2027 | *CGPA: 8.3 / 10* |
+| *HSC (Class XII)* | Little Angels Matriculation HR Secondary School | 2022 – 2023 | *79%* |
+| *SSLC (Class X)* | Little Angels Matriculation HR Secondary School | 2020 – 2021 | — |
 
 ---
 
@@ -141,11 +143,11 @@
 
 | 🏅 Certification | 🏢 Issuer | 📅 Year |
 |-----------------|----------|---------|
-| 🌐 **Web Development** *(Web Designer)* | Elewayte | 2025 |
-| 📊 **Data Analytics Job Simulation** | Deloitte | 2026 |
-| 🔧 **Full Stack Development** *(30-Day MasterClass)* | NoviTech R&D | 2025 |
-| 🎨 **UI & UX Design** *(30-Day MasterClass)* | NoviTech R&D | 2025 |
-| ⌨️ **TypeWriting – Second Class** | — | 2022 |
+| 🌐 *Web Development* (Web Designer) | Elewayte | 2025 |
+| 📊 *Data Analytics Job Simulation* | Deloitte | 2026 |
+| 🔧 *Full Stack Development* (30-Day MasterClass) | NoviTech R&D | 2025 |
+| 🎨 *UI & UX Design* (30-Day MasterClass) | NoviTech R&D | 2025 |
+| ⌨️ *TypeWriting – Second Class* | — | 2022 |
 
 </div>
 
@@ -159,7 +161,7 @@
 
 <div align="center">
 
-```
+
 ╔══════════════════════════════════════════════════════════════╗
 ║  ✅ REST API & AI API Integration  (Claude AI, Google Maps) ║
 ║  ✅ Full-Stack Web Architecture    (MVC, OOP)               ║
@@ -168,7 +170,7 @@
 ║  ✅ Version Control & Agile Workflow                        ║
 ║  ✅ End-to-End Project Ownership                            ║
 ╚══════════════════════════════════════════════════════════════╝
-```
+
 
 </div>
 
@@ -194,20 +196,41 @@
 
 <div align="center">
 
+## 🐍 Contribution Snake
+
+<!-- ✅ Snake now points to YOUR repo's output branch (set up the GitHub Action below) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuvanesh-110905/Yuvanesh-110905/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuvanesh-110905/Yuvanesh-110905/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yuvanesh-110905/Yuvanesh-110905/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+> ⚠️ Snake won't appear until you add the GitHub Action below to your profile repo!
+
+</div>
+
+---
+
+<div align="center">
+
 ## 💬 Quote I Live By
 
-> *"Code is not just logic — it's the art of turning ideas into experiences."*
-
-<br/>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+> "Code is not just logic — it's the art of turning ideas into experiences."
 
 </div>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
