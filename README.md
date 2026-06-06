@@ -1,97 +1,213 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Yuvanesh+S+👋;Full-Stack+Web+Developer;AI+Application+Engineer;Data+Analytics+Enthusiast" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Yuvanesh0811">
-    <img src="https://img.shields.io/badge/Full--Stack%20Dev-3D%20Interactive%20Apps-blue?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack" />
-  </a>
-  <a href="mailto:Yuvanesh0811@gmail.com">
-    <img src="https://img.shields.io/badge/AI%20API-Integrated-purple?style=for-the-badge&logo=openai&logoColor=white" alt="AI Integration" />
-  </a>
-  <a href="https://github.com/Yuvanesh0811">
-    <img src="https://img.shields.io/badge/B.Tech%20IT-CGPA%208.3-orange?style=for-the-badge&logo=git&logoColor=white" alt="Education" />
-  </a>
-</p>
+<!-- 3D Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yuvanesh%20S&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Data%20Analytics&descAlignY=58&descSize=20&descColor=a78bfa" width="100%"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&height=120&section=header&text=Welcome%20To%20My%20Digital%20Space&fontSize=22&animation=twinkling" width="100%" />
-</p>
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Web+Developer;🤖+AI+API+Integration+Specialist;📊+Data+Analytics+Explorer;⚡+React+%7C+Node+%7C+PHP+%7C+Python;🎓+B.Tech+IT+%40+Anna+University" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-### 🚀 About Me
+<!-- Profile Views + GitHub Followers -->
+<img src="https://komarev.com/ghpvc/?username=Yuvanesh-110905&label=Profile+Views&color=7c3aed&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Yuvanesh-110905?label=Followers&style=for-the-badge&color=6d28d9&labelColor=1e1b4b" />
 
-[cite_start]I am a results-driven **Computer Science Engineering student (B.Tech Information Technology)** [cite: 6, 13] [cite_start]with a passion for designing, developing, and shipping full-stack web applications[cite: 6]. [cite_start]With over 2+ years of hands-on experience [cite: 6][cite_start], I specialize in combining robust backends with modern frontend architectures [cite: 6][cite_start], seamlessly integrating third-party AI APIs[cite: 7], and diving deep into data analytics.
+<br/><br/>
 
-* [cite_start]🎓 **Current Pursuit:** B.Tech IT at Misrimal Navajee Munoth Jain Engineering College (CGPA: 8.3/10) [cite: 6, 13, 15]
-* [cite_start]💡 **Core Focus:** Full-Stack Web Development, AI API Integrations, Database Management, and Data Analytics[cite: 2, 7, 11].
-* [cite_start]🛠️ **Proven Ownership:** Delivered 2 independent end-to-end full-scale projects, handling everything from architectural design to deployment[cite: 8].
-* [cite_start]🎯 **Looking For:** Software Engineering Internship opportunities where I can write production-ready code and drive impact[cite: 9].
+<!-- 3D Isometric GIF Banner -->
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" alt="3D Dev Banner"/>
+
+</div>
 
 ---
 
-### 🧰 Tech Stack & Skills (Animated Isometric Icons)
+<!-- About Me Section with animated border -->
+<div align="center">
 
-[cite_start]Using modern tech frameworks to sculpt high-performance, responsive web architectures[cite: 6, 7, 11]:
+## 🧠 About Me
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="45" height="45" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/python-colored.svg" alt="Python" width="45" height="45" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/php-colored.svg" alt="PHP" width="45" height="45" /></a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/java-colored.svg" alt="Java" width="45" height="45" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/html5-colored.svg" alt="HTML5" width="45" height="45" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/css3-colored.svg" alt="CSS3" width="45" height="45" /></a>
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/react-colored.svg" alt="React" width="45" height="45" /></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/nextjs-colored.svg" alt="Next.js" width="45" height="45" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/nodejs-colored.svg" alt="NodeJS" width="45" height="45" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" width="45" height="45" /></a>
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/mysql-colored.svg" alt="MySQL" width="45" height="45" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/mongodb-colored.svg" alt="MongoDB" width="45" height="45" /></a>
-</p>
+</div>
 
-> [cite_start]**Core Engineering Methodology:** > `REST & AI API Integrations` [cite: 11] [cite_start]• `MVC Architecture & OOP` [cite: 11] [cite_start]• `Database Normalization` [cite: 11] [cite_start]• `Agile Development Workflows` [cite: 11]
+```yaml
+👨‍💻 Name        : Yuvanesh S
+🎓 Degree      : B.Tech – Information Technology (Expected: May–Jun 2027)
+🏫 College     : Misrimal Navajee Munoth Jain Engineering College, Anna University
+📍 Location    : Thoraipakkam, Chennai, Tamil Nadu
+📧 Email       : Yuvanesh0811@gmail.com
+📱 Phone       : +91 8939370547
+🔗 LinkedIn    : linkedin.com/in/yuvanesh0811
+🐙 GitHub      : github.com/Yuvanesh-110905
+⭐ CGPA        : 8.3 / 10
+🛠️ Experience  : 2+ Years – Full-Stack Development & AI Integration
+🎯 Goal        : Software Engineering Internship | Production-Ready Code
+```
 
 ---
 
-### 🛠️ Key Architectural Highlights
-* [cite_start]**AI Integration:** Experience embedding intelligent APIs like Claude AI for context-aware workflows and Google Maps for dynamic, location-based services[cite: 7].
-* [cite_start]**End-to-End Delivery:** Successfully engineered a feature-rich custom Social Media Platform and a targeted Destination Reservation System[cite: 8].
-* [cite_start]**Full-Stack Agility:** Fluent in switching between structured SQL schemas (MySQL/SQLite) and flexible document models (MongoDB) based on application bottlenecks[cite: 11].
+<div align="center">
+
+## 🚀 Tech Stack & Skills
+
+</div>
+
+<div align="center">
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧩 Frameworks & Libraries
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+
+</div>
 
 ---
 
-### 📈 GitHub Analytics & 3D Stats Matrix
-<p align="center">
-  <img src="https://github-readme-stats.vercel.am/api?username=Yuvanesh0811&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvanesh0811&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvanesh0811&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+## 📊 GitHub Analytics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuvanesh-110905&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvanesh-110905&layout=compact&langs_count=8&theme=tokyonight&border_radius=15&border_color=7c3aed&title_color=a78bfa"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvanesh-110905&theme=tokyonight&border_radius=15&border=7c3aed&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa" />
+
+<br/>
+
+<!-- 3D Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvanesh-110905&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=false&border_color=7c3aed&radius=16" width="100%"/>
+
+</div>
 
 ---
 
-### 📜 Certifications & Continuous Upskilling
-* [cite_start]📊 **Data Analytics Job Simulation** – Deloitte (2026) [cite: 24]
-* [cite_start]🎨 **Web Development (Web Designer)** – Elewayte (2025) [cite: 24]
-* [cite_start]💻 **Full Stack Development MasterClass** – NoviTech R&D (2025) [cite: 24]
-* [cite_start]📐 **UI & UX Design MasterClass** – NoviTech R&D (2025) [cite: 24]
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Yuvanesh-110905&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
+
+</div>
 
 ---
 
-### 🤝 Connect With Me
+<div align="center">
 
-<p align="left">
-  <a href="mailto:Yuvanesh0811@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Yuvanesh0811%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+## 🎓 Education
 
-[cite_start]📍 Based in Thoraipakkam, Chennai, TN, India 🇮🇳 [cite: 4]
+</div>
 
+| 🎓 Degree | 🏫 Institution | 📅 Year | 📈 Score |
+|-----------|---------------|---------|---------|
+| **B.Tech – Information Technology** | Misrimal Navajee Munoth Jain Engineering College, Anna University | 2023 – 2027 | **CGPA: 8.3 / 10** |
+| **HSC (Class XII)** | Little Angels Matriculation HR Secondary School | 2022 – 2023 | **79%** |
+| **SSLC (Class X)** | Little Angels Matriculation HR Secondary School | 2020 – 2021 | — |
 
-       
+---
+
+<div align="center">
+
+## 📜 Certifications & Training
+
+</div>
+
+<div align="center">
+
+| 🏅 Certification | 🏢 Issuer | 📅 Year |
+|-----------------|----------|---------|
+| 🌐 **Web Development** *(Web Designer)* | Elewayte | 2025 |
+| 📊 **Data Analytics Job Simulation** | Deloitte | 2026 |
+| 🔧 **Full Stack Development** *(30-Day MasterClass)* | NoviTech R&D | 2025 |
+| 🎨 **UI & UX Design** *(30-Day MasterClass)* | NoviTech R&D | 2025 |
+| ⌨️ **TypeWriting – Second Class** | — | 2022 |
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Core Competencies
+
+</div>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  ✅ REST API & AI API Integration  (Claude AI, Google Maps) ║
+║  ✅ Full-Stack Web Architecture    (MVC, OOP)               ║
+║  ✅ Responsive UI Design           (Mobile-First)           ║
+║  ✅ Database Design & Normalization (Relational + NoSQL)    ║
+║  ✅ Version Control & Agile Workflow                        ║
+║  ✅ End-to-End Project Ownership                            ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/yuvanesh0811" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Yuvanesh-110905" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:Yuvanesh0811@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 Quote I Live By
+
+> *"Code is not just logic — it's the art of turning ideas into experiences."*
+
+<br/>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
