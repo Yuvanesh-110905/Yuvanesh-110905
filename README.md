@@ -30,7 +30,7 @@
 
 </div>
 
-yaml
+```yaml
 👨‍💻 Name        : Yuvanesh S
 🎓 Degree      : B.Tech – Information Technology (Expected: May–Jun 2027)
 🏫 College     : Misrimal Navajee Munoth Jain Engineering College, Anna University
@@ -42,7 +42,7 @@ yaml
 ⭐ CGPA        : 8.3 / 10
 🛠️ Experience  : 2+ Years – Full-Stack Development & AI Integration
 🎯 Goal        : Software Engineering Internship | Production-Ready Code
-
+```
 
 ---
 
@@ -127,9 +127,9 @@ yaml
 
 | 🎓 Degree | 🏫 Institution | 📅 Year | 📈 Score |
 |-----------|---------------|---------|---------|
-| *B.Tech – Information Technology* | Misrimal Navajee Munoth Jain Engineering College, Anna University | 2023 – 2027 | *CGPA: 8.3 / 10* |
-| *HSC (Class XII)* | Little Angels Matriculation HR Secondary School | 2022 – 2023 | *79%* |
-| *SSLC (Class X)* | Little Angels Matriculation HR Secondary School | 2020 – 2021 | — |
+| **B.Tech – Information Technology** | Misrimal Navajee Munoth Jain Engineering College, Anna University | 2023 – 2027 | **CGPA: 8.3 / 10** |
+| **HSC (Class XII)** | Little Angels Matriculation HR Secondary School | 2022 – 2023 | **79%** |
+| **SSLC (Class X)** | Little Angels Matriculation HR Secondary School | 2020 – 2021 | — |
 
 ---
 
@@ -143,11 +143,11 @@ yaml
 
 | 🏅 Certification | 🏢 Issuer | 📅 Year |
 |-----------------|----------|---------|
-| 🌐 *Web Development* (Web Designer) | Elewayte | 2025 |
-| 📊 *Data Analytics Job Simulation* | Deloitte | 2026 |
-| 🔧 *Full Stack Development* (30-Day MasterClass) | NoviTech R&D | 2025 |
-| 🎨 *UI & UX Design* (30-Day MasterClass) | NoviTech R&D | 2025 |
-| ⌨️ *TypeWriting – Second Class* | — | 2022 |
+| 🌐 **Web Development** *(Web Designer)* | Elewayte | 2025 |
+| 📊 **Data Analytics Job Simulation** | Deloitte | 2026 |
+| 🔧 **Full Stack Development** *(30-Day MasterClass)* | NoviTech R&D | 2025 |
+| 🎨 **UI & UX Design** *(30-Day MasterClass)* | NoviTech R&D | 2025 |
+| ⌨️ **TypeWriting – Second Class** | — | 2022 |
 
 </div>
 
@@ -161,7 +161,7 @@ yaml
 
 <div align="center">
 
-
+```
 ╔══════════════════════════════════════════════════════════════╗
 ║  ✅ REST API & AI API Integration  (Claude AI, Google Maps) ║
 ║  ✅ Full-Stack Web Architecture    (MVC, OOP)               ║
@@ -170,7 +170,7 @@ yaml
 ║  ✅ Version Control & Agile Workflow                        ║
 ║  ✅ End-to-End Project Ownership                            ║
 ╚══════════════════════════════════════════════════════════════╝
-
+```
 
 </div>
 
@@ -215,22 +215,9 @@ yaml
 
 ## 💬 Quote I Live By
 
-> "Code is not just logic — it's the art of turning ideas into experiences."
+> *"Code is not just logic — it's the art of turning ideas into experiences."*
 
 </div>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
